@@ -1,0 +1,6 @@
+# credential files -refer .notjson files to see structure 
+token.json
+credentials.json
+
+# dependencies
+vendor/
